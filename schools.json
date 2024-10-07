@@ -1,0 +1,20 @@
+[
+    {
+        "name": "R.S. Model Senior Secondary School",
+        "location": "Ludhiana",
+        "description": "Ranked as the best school in Ludhiana.",
+        "image": "https://example.com/school1.jpg"
+    },
+    {
+        "name": "Delhi Public School",
+        "location": "Delhi",
+        "description": "Strong academic performance with extracurricular focus.",
+        "image": "https://example.com/school2.jpg"
+    },
+    {
+        "name": "St. Xavier's College",
+        "location": "Mumbai",
+        "description": "Top college in Mumbai for higher education.",
+        "image": "https://example.com/college1.jpg"
+    }
+]
