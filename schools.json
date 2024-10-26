@@ -13,7 +13,7 @@
         "principal_name": "Mrs. Neeta Sharma",
         "affiliations": "ICSE",
         "grades_offered": "Nursery to Class 12",
-        "fees": "INR 40,000 - 1,00,000 per annum",
+        "fees": "INR 40,000 - 1,00,000 per annum approx. ",
         "reviews": ["Excellent faculty and friendly environment.", "Highly recommend for quality education."],
         "achievements": ["Top 10 ICSE schools in Punjab", "Outstanding achievements in sports competitions"]
     },
@@ -31,7 +31,7 @@
         "principal_name": "Mr. Rajesh Kumar",
         "affiliations": "CBSE",
         "grades_offered": "Nursery to Class 12",
-        "fees": "INR 55,000 - 1,10,000 per annum",
+        "fees": "INR 55,000 - 1,10,000 per annum approx.",
         "reviews": ["Great place for holistic development!", "My children are thriving here."],
         "achievements": ["National level award for education quality", "Excellence in CBSE board results"]
     },
@@ -49,7 +49,7 @@
         "principal_name": "Sister Maria",
         "affiliations": "CBSE",
         "grades_offered": "Nursery to Class 12",
-        "fees": "INR 45,000 - 1,00,000 per annum",
+        "fees": "INR 45,000 - 1,00,000 per annum approx.",
         "reviews": ["Excellent education and discipline!", "The teachers are very supportive."],
         "achievements": ["Top rank in Chandigarh board results", "Best school award 2022"]
     },
@@ -67,7 +67,7 @@
         "principal_name": "Mr. John Smith",
         "affiliations": "IB",
         "grades_offered": "Nursery to Class 12",
-        "fees": "INR 1,50,000 - 2,50,000 per annum",
+        "fees": "INR 1,50,000 - 2,50,000 per annum approx.",
         "reviews": ["Truly an international experience!", "Amazing faculty and resources."],
         "achievements": ["Ranked among top 10 international schools in India", "Innovative teaching practices recognized globally"]
     },
@@ -85,7 +85,7 @@
         "principal_name": "Mr. Sunil Gupta",
         "affiliations": "CBSE",
         "grades_offered": "Nursery to Class 12",
-        "fees": "INR 30,000 - 70,000 per annum",
+        "fees": "INR 30,000 - 70,000 per annum approx.",
         "reviews": ["Affordable fees with great education!", "Caring teachers and staff."],
         "achievements": ["Consistent improvement in board results", "Active participation in cultural events"]
     },
@@ -103,7 +103,7 @@
         "principal_name": "Mrs. Priya Mehta",
         "affiliations": "CBSE",
         "grades_offered": "Nursery to Class 12",
-        "fees": "INR 50,000 - 1,20,000 per annum",
+        "fees": "INR 50,000 - 1,20,000 per annum approx.",
         "reviews": ["Great focus on extracurricular activities!", "Highly supportive staff."],
         "achievements": ["Best school award in Mohali 2023", "Top performance in academic results"]
     },
@@ -121,7 +121,7 @@
         "principal_name": "Mr. Vikram Singh",
         "affiliations": "CBSE",
         "grades_offered": "Nursery to Class 12",
-        "fees": "INR 45,000 - 1,00,000 per annum",
+        "fees": "INR 45,000 - 1,00,000 per annum approx.",
         "reviews": ["Excellent faculty!", "My child has excelled academically."],
         "achievements": ["Top CBSE results in Amritsar", "Best school award in 2022"]
     },
@@ -139,7 +139,7 @@
         "principal_name": "Mrs. Aarti Kaur",
         "affiliations": "CBSE",
         "grades_offered": "Nursery to Class 12",
-        "fees": "INR 35,000 - 80,000 per annum",
+        "fees": "INR 35,000 - 80,000 per annum approx.",
         "reviews": ["Wonderful environment for kids!", "Strong emphasis on green practices."],
         "achievements": ["Awarded for sustainable practices", "Excellence in sports"]
     },
@@ -157,7 +157,7 @@
         "principal_name": "Mr. Amanpreet Singh",
         "affiliations": "CBSE",
         "grades_offered": "Nursery to Class 12",
-        "fees": "INR 50,000 - 1,00,000 per annum",
+        "fees": "INR 50,000 - 1,00,000 per annum approx.",
         "reviews": ["Encourages creativity and innovation!", "Excellent faculty and resources."],
         "achievements": ["Best innovative school award 2022", "Top rank in state board results"]
     },
@@ -175,7 +175,7 @@
         "principal_name": "Mrs. Renu Sharma",
         "affiliations": "CBSE",
         "grades_offered": "Nursery to Class 12",
-        "fees": "INR 40,000 - 90,000 per annum",
+        "fees": "INR 40,000 - 90,000 per annum approx.",
         "reviews": ["Great atmosphere for learning!", "Supportive and experienced staff."],
         "achievements": ["Consistent performance in board exams", "Top 10 in sports competitions"]
     },
@@ -193,7 +193,7 @@
         "principal_name": "Colonel Anil Kapoor",
         "affiliations": "CBSE",
         "grades_offered": "Nursery to Class 12",
-        "fees": "INR 45,000 - 1,05,000 per annum",
+        "fees": "INR 45,000 - 1,05,000 per annum approx.",
         "reviews": ["Disciplined environment with excellent education!", "Highly recommended for military families."],
         "achievements": ["Top school in military cantonment", "Best results in board exams"]
     },
@@ -211,7 +211,7 @@
         "principal_name": "Mr. Gurvinder Singh",
         "affiliations": "CBSE",
         "grades_offered": "Nursery to Class 12",
-        "fees": "INR 30,000 - 70,000 per annum",
+        "fees": "INR 30,000 - 70,000 per annum approx.",
         "reviews": ["Good focus on character building!", "Affordable fees and good education."],
         "achievements": ["Best performance in CBSE exams 2023", "Award for cultural excellence"]
     },
@@ -229,7 +229,7 @@
         "principal_name": "Mr. Rajeev Bansal",
         "affiliations": "CBSE",
         "grades_offered": "Nursery to Class 12",
-        "fees": "INR 50,000 - 1,10,000 per annum",
+        "fees": "INR 50,000 - 1,10,000 per annum approx.",
         "reviews": ["Traditional values with modern teaching!", "My children are happy and learning."],
         "achievements": ["Award for innovative teaching practices", "Excellence in board results"]
     },
@@ -247,7 +247,7 @@
         "principal_name": "Mrs. Shalini Mehta",
         "affiliations": "ICSE",
         "grades_offered": "Nursery to Class 12",
-        "fees": "INR 60,000 - 1,20,000 per annum",
+        "fees": "INR 60,000 - 1,20,000 per annum approx.",
         "reviews": ["Innovative teaching methods!", "Great support for students."],
         "achievements": ["Recognized for educational excellence", "Top 5 in sports competitions"]
     },
@@ -265,7 +265,7 @@
         "principal_name": "Mr. Arvind Kumar",
         "affiliations": "CBSE",
         "grades_offered": "Nursery to Class 12",
-        "fees": "INR 40,000 - 90,000 per annum",
+        "fees": "INR 40,000 - 90,000 per annum approx.",
         "reviews": ["Very supportive and caring teachers!", "Good infrastructure and environment."],
         "achievements": ["Top results in board exams", "Best in extracurricular activities"]
     },
@@ -283,7 +283,7 @@
         "principal_name": "Mr. Sunil Sethi",
         "affiliations": "CBSE",
         "grades_offered": "Nursery to Class 12",
-        "fees": "INR 50,000 - 1,00,000 per annum",
+        "fees": "INR 50,000 - 1,00,000 per annum approx.",
         "reviews": ["Great focus on future-ready education!", "Teachers are dedicated and passionate."],
         "achievements": ["Recognized for excellence in academics", "Top performance in state competitions"]
     },
@@ -301,7 +301,7 @@
         "principal_name": "Sister Reema",
         "affiliations": "ICSE",
         "grades_offered": "Nursery to Class 12",
-        "fees": "INR 60,000 - 1,20,000 per annum",
+        "fees": "INR 60,000 - 1,20,000 per annum approx.",
         "reviews": ["Nurturing and supportive environment!", "Teachers are highly qualified and caring."],
         "achievements": ["Ranked among top schools in Mohali", "Excellence in arts and culture"]
     },
@@ -319,7 +319,7 @@
         "principal_name": "Mr. Deepak Verma",
         "affiliations": "CBSE",
         "grades_offered": "Nursery to Class 12",
-        "fees": "INR 70,000 - 1,50,000 per annum",
+        "fees": "INR 70,000 - 1,50,000 per annum approx.",
         "reviews": ["Very innovative teaching methods!", "Children are encouraged to think out of the box."],
         "achievements": ["Best school in innovative teaching practices", "Top results in science competitions"]
     },
@@ -337,7 +337,7 @@
         "principal_name": "Mr. Satinder Singh",
         "affiliations": "CBSE",
         "grades_offered": "Nursery to Class 12",
-        "fees": "INR 55,000 - 1,10,000 per annum",
+        "fees": "INR 55,000 - 1,10,000 per annum approx.",
         "reviews": ["Dedicated teachers and a great curriculum!", "Very satisfied with the quality of education."],
         "achievements": ["Best in state board results", "Award for excellence in co-curricular activities"]
     },
@@ -355,7 +355,7 @@
         "principal_name": "Mrs. Elizabeth Brown",
         "affiliations": "IGCSE",
         "grades_offered": "Nursery to Class 12",
-        "fees": "INR 80,000 - 1,50,000 per annum",
+        "fees": "INR 80,000 - 1,50,000 per annum approx.",
         "reviews": ["Excellent global exposure!", "Highly qualified international faculty."],
         "achievements": ["Top in IGCSE results", "Awarded for outstanding international collaborations"]
     },
@@ -373,7 +373,7 @@
         "principal_name": "Sister Mary Teresa",
         "affiliations": "ICSE",
         "grades_offered": "Nursery to Class 12",
-        "fees": "INR 50,000 - 1,00,000 per annum",
+        "fees": "INR 50,000 - 1,00,000 per annum approx.",
         "reviews": ["Strong community spirit and values!", "Highly recommend for holistic education."],
         "achievements": ["Recognized for best community service projects", "Top academic results in ICSE"]
     },
@@ -391,7 +391,7 @@
         "principal_name": "Mrs. Priya Sharma",
         "affiliations": "CBSE",
         "grades_offered": "Nursery to Class 12",
-        "fees": "INR 55,000 - 1,20,000 per annum",
+        "fees": "INR 55,000 - 1,20,000 per annum approx.",
         "reviews": ["Focuses on creativity and critical thinking!", "Supportive staff and great curriculum."],
         "achievements": ["Ranked among top schools in Mohali", "Outstanding results in board exams"]
     },
@@ -409,7 +409,7 @@
         "principal_name": "Mr. Rajesh Bhatia",
         "affiliations": "CBSE",
         "grades_offered": "Nursery to Class 12",
-        "fees": "INR 30,000 - 60,000 per annum",
+        "fees": "INR 30,000 - 60,000 per annum approx.",
         "reviews": ["Very disciplined and structured environment!", "Highly recommend for government employees."],
         "achievements": ["Consistent top results in CBSE exams", "Best school in government sector"]
     },
@@ -427,7 +427,7 @@
         "principal_name": "Mr. Vinay Bansal",
         "affiliations": "CBSE",
         "grades_offered": "Nursery to Class 12",
-        "fees": "INR 40,000 - 90,000 per annum",
+        "fees": "INR 40,000 - 90,000 per annum approx.",
         "reviews": ["Teachers are very supportive and encouraging!", "Focus on both academics and sports."],
         "achievements": ["Outstanding performance in state-level competitions", "Top in academic results"]
     }
